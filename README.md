@@ -18,7 +18,7 @@ First of all I want to thank [@ahmadawais](https://github.com/ahmadawais) for bu
 ## Alternate Installation
 
 1. Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
-2. Paste the command `ext install joker-smile`
+2. Paste the command `ext install marcosvidolin.joker-smile`
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Joker Smile**.
