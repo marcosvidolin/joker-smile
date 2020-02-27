@@ -2,6 +2,9 @@
 
 First of all thank I want to thank @ahmadawais for build the [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) theme on which I based.
 
+<p align="center"> 
+  <img src="./images/theme.png">
+</p>
 
 ## Easy Installation
 
