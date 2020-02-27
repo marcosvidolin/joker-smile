@@ -1,8 +1,18 @@
 {
     "name": "joker-smile",
-    "displayName": "joker-smile",
-    "description": "Joker Smile Theme",
+    "displayName": "Joker Smile",
+    "description": "🃏Joker Smile - This is a Visual Studio Code theme based on Joker colors",
     "version": "0.0.1",
+    "publisher": "marcosvidolin",
+    "repository": {
+		"type": "git",
+        "url": "https://github.com/marcosvidolin/joker-smile"
+    },
+    "keywords": [
+		"Joker Smile",
+        "Dark Theme",
+        "Joker"
+	],
     "engines": {
         "vscode": "^1.42.0"
     },

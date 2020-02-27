@@ -25,3 +25,5 @@ First of all thank I want to thank @ahmadawais for build the [shades-of-purple-v
 6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=marcosvidolin.joker-smile#review-details).
 
 **Enjoy!**
+
+## Contributors
