@@ -1,6 +1,6 @@
 # Joker Smile Theme 🃏
 
-First of all thank I want to thank @ahmadawais for build the [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) theme on which I based.
+First of all I want to thank [@ahmadawais](https://github.com/ahmadawais) for build the [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) theme on which I based.
 
 <p align="center"> 
   <img src="./images/theme.png">
@@ -27,3 +27,5 @@ First of all thank I want to thank @ahmadawais for build the [shades-of-purple-v
 **Enjoy!**
 
 ## Contributors
+
+[![](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/images/0)](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/links/0)[![](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/images/1)](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/links/1)[![](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/images/2)](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/links/2)[![](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/images/3)](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/links/3)[![](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/images/4)](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/links/4)[![](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/images/5)](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/links/5)[![](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/images/6)](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/links/6)[![](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/images/7)](https://sourcerer.io/fame/marcosvidolin/marcosvidolin/joker-smile/links/7)
