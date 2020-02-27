@@ -1,4 +1,4 @@
-# Joker Smile 🃏
+# Joker Smile Theme 🃏
 
 ## This is the README for your extension "joker-smile"
 
