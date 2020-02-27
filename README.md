@@ -1,17 +1,24 @@
 # Joker Smile Theme 🃏
 
-## This is the README for your extension "joker-smile"
+First of all thank I want to thank @ahmadawais for build the [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) theme on which I based.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Easy Installation
 
-### For more information
+1. Open the extensions sidebar on Visual Studio Code
+2. Search for **Joker Smile**
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor.
+5. Code/File ＞ Preferences ＞ Color Theme ＞ **Joker Smile**.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=marcosvidolin.joker-smile#review-details).
 
-* [Theme Color](https://code.visualstudio.com/api/references/theme-color)
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Alternate Installation
+
+1. Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
+2. Paste the command `ext install joker-smile`
+3. Click **Install** to install it.
+4. Click **Reload** to reload the your editor.
+5. Code/File ＞ Preferences ＞ Color Theme ＞ **Joker Smile**.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=marcosvidolin.joker-smile#review-details).
 
 **Enjoy!**
