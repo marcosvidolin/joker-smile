@@ -121,7 +121,6 @@
 		"diffEditor.removedTextBorder": "#FF000D81",
 
 		// Editor Groups & Tabs.
-		// "editorGroup.background": "#EC3A37F5", // Deprecated in v1.25
 		"editorGroup.border": "#222244",
 		"editorGroup.dropBackground": "#222244D0",
 
@@ -384,7 +383,7 @@
 			"name": "[Entity] — The main Entity color",
 			"scope": "entity",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -450,14 +449,14 @@
 			"name": "[Storage] — The main color for Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
 			"name": "[Storage] — The color for Storage Type Arrow Function",
 			"scope": "storage.type.function.arrow",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -513,7 +512,7 @@
 			"name": "[INI] - Color for Keyword",
 			"scope": ["source.ini keyword","keyword.other.definition.ini"],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -635,14 +634,14 @@
 			"name": "[HTML] - Color for Entity Other",
 			"scope": "text.html.basic entity.other",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
 			"name": "[HTML] - Color for Script Tag",
 			"scope": "meta.tag.metadata.script.html entity.name.tag.html",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -663,7 +662,7 @@
 			"name": "[JSON] - Color for Support",
 			"scope": "source.json support",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -843,7 +842,7 @@
 				"support.function.builtin.python"
 			],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -857,7 +856,7 @@
 			"name": "[TYPESCRIPT] - Color for Keyword",
 			"scope": "source.ts keyword",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -889,7 +888,7 @@
 				"markup.heading.setext.2.markdown"
 			],
 			"settings": {
-				"foreground": "#FAD000",
+				"foreground": "#FF00CC",
 				"fontStyle": "bold"
 			}
 		},
@@ -950,7 +949,7 @@
 			"name": "[MARKDOWN] - Color for Quote Punctuation",
 			"scope": "beginning.punctuation.definition.quote.markdown",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -967,7 +966,7 @@
 			"name": "[MARKDOWN] - Color for Separator",
 			"scope": "meta.separator.markdown",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -992,7 +991,7 @@
 				"markup.list.unnumbered.markdown",
 			],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -1016,7 +1015,7 @@
 				"meta.link.reference.def.markdown markup.underline.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FAD000",
+				"foreground": "#FF00CC",
 				 "fontStyle": "underline"
 			}
 		},
@@ -1060,7 +1059,7 @@
 				"string.other.link.description.markdown"
 			],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -1168,7 +1167,7 @@
 				"variable.other.property"
 			],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -1194,7 +1193,7 @@
 			"name": "[YML] — KEYWORDS",
 			"scope": [ "entity.name.tag.yaml"],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -1271,7 +1270,7 @@
 				"support.function.go"
 			],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -1385,7 +1384,7 @@
 				"source.sql support.function"
 			],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -1432,7 +1431,7 @@
 				"keyword.key.toml"
 			],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#FF00CC"
 			}
 		},
 		{
@@ -1441,7 +1440,7 @@
 				"keyword.other.special-method.dockerfile"
 			],
 			"settings": {
-				"foreground": "#FAD000",
+				"foreground": "#FF00CC",
 			}
 		},
 		{
@@ -1477,7 +1476,7 @@
 				"variable.other.env"
 			],
 			"settings": {
-				"foreground": "#FAD000",
+				"foreground": "#FF00CC",
 			}
 		},
 		{
