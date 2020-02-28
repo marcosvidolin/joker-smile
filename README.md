@@ -1,6 +1,6 @@
 # Joker Smile Theme 🃏
 
-First of all I want to thank [@ahmadawais](https://github.com/ahmadawais) for build the [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) theme on which I based.
+This is a Visual Studio Code theme based on Joker style.
 
 <p align="center"> 
   <img src="./images/theme.png">
@@ -25,6 +25,10 @@ First of all I want to thank [@ahmadawais](https://github.com/ahmadawais) for bu
 6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=marcosvidolin.joker-smile#review-details).
 
 **Enjoy!**
+
+## Thanks
+
+I want to thank [@ahmadawais](https://github.com/ahmadawais) for build the [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) theme on which I based and [@regivaldo](https://github.com/regivaldo) for all images and tips about style.
 
 ## Contributors
 
