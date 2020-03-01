@@ -1,6 +1,6 @@
 # Joker Smile Theme 🃏
 
-This is a Visual Studio Code theme based on Joker style.
+This is a Visual Studio Code theme based on Joker's style.
 
 <p align="center"> 
   <img src="./images/theme.png">
