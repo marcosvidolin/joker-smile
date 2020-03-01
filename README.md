@@ -26,7 +26,7 @@ This is a Visual Studio Code theme based on Joker's style.
 
 **Enjoy!**
 
-## Thanks
+## Credits
 
 I want to thank [@ahmadawais](https://github.com/ahmadawais) for build the [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) theme on which I based and [@regivaldo](https://github.com/regivaldo) for all images and tips about style.
 
